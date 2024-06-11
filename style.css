@@ -1,0 +1,14 @@
+.principal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.botoes {
+  margin-top: 10px;
+}
+
+.imagens {
+  width: 30%;
+  height: 30%;
+}
